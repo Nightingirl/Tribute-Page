@@ -41,7 +41,9 @@ h1{
     font-style: oblique;
     font-family: cursive;
 }
-
+#img-caption{
+    color: white;
+}
 .responsive{
     width: 100%;
     height: auto;
